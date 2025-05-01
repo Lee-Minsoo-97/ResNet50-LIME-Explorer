@@ -27,13 +27,13 @@ _Visualizing and Interpreting ResNet50 Predictions with LIME_
 ## Installation
 ```bash
 pip install tensorflow tensorflow_datasets keras numpy matplotlib lime scikit-image
-
-### Project Structure
+```
+## Project Structure
 ├── Assignment_5_LIME–Framework.py    # Main script with framework cells
 ├── README.md                         # This file
 └── images/                           # (Optional) example input images
 
-### Usage
+## Usage
 	1.	**Prepare your image**
 Upload a clear, single-object photo (e.g., animal, car, appliance).
 	2.	**Set image_path**
