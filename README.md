@@ -27,7 +27,7 @@ _Visualizing and Interpreting ResNet50 Predictions with LIME_
 ## Installation
 ```bash
 pip install tensorflow tensorflow_datasets keras numpy matplotlib lime scikit-image
-```
+
 ## Project Structure
 ├── Assignment_5_LIME–Framework.py    # Main script with framework cells
 ├── README.md                         # This file
@@ -59,3 +59,4 @@ image_path = '/path/to/your/image.jpg'
 	•	Ribeiro, M. T., Singh, S., & Guestrin, C. (2016). “Why Should I Trust You? Explaining the Predictions of Any Classifier.”
 	•	LIME Documentation. https://lime-ml.readthedocs.io/en/latest/
 	•	TensorFlow ResNet50 Tutorial. https://www.tensorflow.org/api_docs/python/tf/keras/applications/ResNet50
+```
